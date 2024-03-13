@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE42F71B2BA1969700ACEAAD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F71A2BA1969700ACEAAD /* main.swift */; };
+		DE42F71B2BA1969700ACEAAD /* GreedyP2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		DE42F7172BA1969700ACEAAD /* AlgorithmWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE42F71A2BA1969700ACEAAD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreedyP2.swift; sourceTree = "<group>"; };
+		DE42F7222BA197FE00ACEAAD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +58,26 @@
 		DE42F7192BA1969700ACEAAD /* AlgorithmWithSwift */ = {
 			isa = PBXGroup;
 			children = (
-				DE42F71A2BA1969700ACEAAD /* main.swift */,
+				DE42F7232BA1992B00ACEAAD /* ThisIsCodingTest */,
+				DE42F7212BA196B200ACEAAD /* BOJ */,
+				DE42F7222BA197FE00ACEAAD /* .gitignore */,
 			);
 			path = AlgorithmWithSwift;
+			sourceTree = "<group>";
+		};
+		DE42F7212BA196B200ACEAAD /* BOJ */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BOJ;
+			sourceTree = "<group>";
+		};
+		DE42F7232BA1992B00ACEAAD /* ThisIsCodingTest */ = {
+			isa = PBXGroup;
+			children = (
+				DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */,
+			);
+			path = ThisIsCodingTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE42F71B2BA1969700ACEAAD /* main.swift in Sources */,
+				DE42F71B2BA1969700ACEAAD /* GreedyP2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
