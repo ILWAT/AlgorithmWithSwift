@@ -9,7 +9,8 @@
 /* Begin PBXBuildFile section */
 		DE42F71B2BA1969700ACEAAD /* GreedyP2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */; };
 		DE42F72C2BA8189C00ACEAAD /* GreedyP3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F72B2BA8189C00ACEAAD /* GreedyP3.swift */; };
-		DE42F72E2BA8203F00ACEAAD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F72D2BA8203F00ACEAAD /* main.swift */; };
+		DE42F72E2BA8203F00ACEAAD /* GreedyP4.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */; };
+		DE6666022BC5350900BEC380 /* implementation4_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6666012BC5350900BEC380 /* implementation4_1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,7 +30,8 @@
 		DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreedyP2.swift; sourceTree = "<group>"; };
 		DE42F7222BA197FE00ACEAAD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		DE42F72B2BA8189C00ACEAAD /* GreedyP3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreedyP3.swift; sourceTree = "<group>"; };
-		DE42F72D2BA8203F00ACEAAD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreedyP4.swift; sourceTree = "<group>"; };
+		DE6666012BC5350900BEC380 /* implementation4_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = implementation4_1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +83,8 @@
 			children = (
 				DE42F71A2BA1969700ACEAAD /* GreedyP2.swift */,
 				DE42F72B2BA8189C00ACEAAD /* GreedyP3.swift */,
-				DE42F72D2BA8203F00ACEAAD /* main.swift */,
+				DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */,
+				DE6666012BC5350900BEC380 /* implementation4_1.swift */,
 			);
 			path = ThisIsCodingTest;
 			sourceTree = "<group>";
@@ -146,7 +149,8 @@
 			files = (
 				DE42F72C2BA8189C00ACEAAD /* GreedyP3.swift in Sources */,
 				DE42F71B2BA1969700ACEAAD /* GreedyP2.swift in Sources */,
-				DE42F72E2BA8203F00ACEAAD /* main.swift in Sources */,
+				DE6666022BC5350900BEC380 /* implementation4_1.swift in Sources */,
+				DE42F72E2BA8203F00ACEAAD /* GreedyP4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
