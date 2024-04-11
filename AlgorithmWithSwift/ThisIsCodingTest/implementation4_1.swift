@@ -7,7 +7,7 @@
 
 import Foundation
 
-func implementation4_1() {
+fileprivate func implementation4_1() {
     let input1 = Int(readLine()!)
     let input2 = readLine()?.split(separator: " ").map({String($0)})
     var xOffset = 1
@@ -41,7 +41,5 @@ func implementation4_1() {
     }
     print(yOffset, xOffset)
 }
-
-implementation4_1()
 
 

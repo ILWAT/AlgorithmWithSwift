@@ -7,7 +7,7 @@
 
 import Foundation
 
-func greedyP3() {
+fileprivate func greedyP3() {
     //n: 행의 갯수 / m: 열의 갯수
     var n: Int = 0
     var m: Int = 0

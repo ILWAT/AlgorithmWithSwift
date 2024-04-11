@@ -7,7 +7,7 @@
 
 import Foundation
 
-func greedyP2() {
+fileprivate func greedyP2() {
     let firstInput = readLine()!.components(separatedBy: " ")
     let firstInputArray = firstInput.map({ Int($0)! })
     

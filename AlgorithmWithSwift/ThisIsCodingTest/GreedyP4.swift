@@ -7,7 +7,7 @@
 
 import Foundation
 
-func GreedyP4() {
+fileprivate func GreedyP4() {
     var n: Int
     var k: Int
     var result: Int
