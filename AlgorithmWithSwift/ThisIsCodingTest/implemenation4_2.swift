@@ -28,4 +28,4 @@ fileprivate func implementation4_2() {
     print(result)
 }
 
-implementation4_2()
+//implementation4_2()

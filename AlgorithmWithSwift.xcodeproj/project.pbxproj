@@ -12,6 +12,7 @@
 		DE42F72E2BA8203F00ACEAAD /* GreedyP4.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */; };
 		DE6666022BC5350900BEC380 /* implementation4_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6666012BC5350900BEC380 /* implementation4_1.swift */; };
 		DE6666042BC53E9A00BEC380 /* implemenation4_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6666032BC53E9A00BEC380 /* implemenation4_2.swift */; };
+		DE6EB65B2BCD2D1D00C28B3A /* ImplementationP2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6EB65A2BCD2D1D00C28B3A /* ImplementationP2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,7 @@
 		DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreedyP4.swift; sourceTree = "<group>"; };
 		DE6666012BC5350900BEC380 /* implementation4_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = implementation4_1.swift; sourceTree = "<group>"; };
 		DE6666032BC53E9A00BEC380 /* implemenation4_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = implemenation4_2.swift; sourceTree = "<group>"; };
+		DE6EB65A2BCD2D1D00C28B3A /* ImplementationP2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementationP2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				DE42F72D2BA8203F00ACEAAD /* GreedyP4.swift */,
 				DE6666012BC5350900BEC380 /* implementation4_1.swift */,
 				DE6666032BC53E9A00BEC380 /* implemenation4_2.swift */,
+				DE6EB65A2BCD2D1D00C28B3A /* ImplementationP2.swift */,
 			);
 			path = ThisIsCodingTest;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE42F72C2BA8189C00ACEAAD /* GreedyP3.swift in Sources */,
+				DE6EB65B2BCD2D1D00C28B3A /* ImplementationP2.swift in Sources */,
 				DE6666042BC53E9A00BEC380 /* implemenation4_2.swift in Sources */,
 				DE42F71B2BA1969700ACEAAD /* GreedyP2.swift in Sources */,
 				DE6666022BC5350900BEC380 /* implementation4_1.swift in Sources */,
